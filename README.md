@@ -1,4 +1,4 @@
-# data-compression-with-hash-tables-and-ziv-lempel-algorithm
+# Data Compression with Ziv-Lempel Algorithm and Hash tables
 
 In this project an algorithm for data compression is implemented. The
 purpose of data compression is to take a file A and, within a reasonable amount of
